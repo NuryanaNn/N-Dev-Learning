@@ -466,10 +466,12 @@ header .header-1 .hiddenNav ul li a:hover::before{
 
 .newCourse .cards .imgBox{
     max-width: 280px;
+    height: 170px;
 }
 
 .newCourse .cards .imgBox img{
     width: 100%;
+    height: 100%;
     border-radius: 10px;
 }
 

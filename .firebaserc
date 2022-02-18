@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "n-dev-learning",
+    "n-dev-learning": "n-dev-learning"
+  },
+  "targets": {}
+}
